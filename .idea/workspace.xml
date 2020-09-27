@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,9 +172,25 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added an intent to the store information activity">
+      <created>1601192419823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192419824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added an intent to the store information activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an intent to the store information activity" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="230" y="23" key="CommitChangelistDialog2" timestamp="1601192419334">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="230" y="23" key="CommitChangelistDialog2/0.23.1280.722@0.23.1280.722" timestamp="1601192419334" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1601120934759">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -193,10 +207,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1601120934759" />
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1601192376529">
+    <state x="240" y="124" key="Vcs.Push.Dialog.v2" timestamp="1601192510312">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="240" y="124" key="Vcs.Push.Dialog.v2/0.23.1280.722@0.23.1280.722" timestamp="1601192510312" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1601192493976">
       <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1601116000758" />
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.722@0.23.1280.722" timestamp="1601192376529" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.722@0.23.1280.722" timestamp="1601192493976" />
   </component>
 </project>
